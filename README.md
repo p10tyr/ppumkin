@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ppumkin (Piotr Kula)
+- 👋 Hi, I’m Piotr Kula
 - 👀 I’m interested in writing code in all sorts of languages
 - 🌱 I’m currently learning Elastic Search
 
