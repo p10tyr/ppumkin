@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Piotr Kula
-- 👀 I’m interested in writing code in all sorts of languages
-- 🌱 I’m currently learning Elastic Search
+- 👀 I am primarily a Dotnet developer but do write code in all languages
+- 🔍 I'm a certified Elastic Search Observability Engineer and a Open Telemetry evangilist
+- 🌱 Learning about Kafka
+  
 
 
 <!---
