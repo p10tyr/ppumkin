@@ -43,7 +43,12 @@
 ![Youtube](https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)
 
 
-
+<details>
+  <summary>
+    More ...
+  </summary>
+<p>Used https://shields.io/ and https://simpleicons.org/ for the above. Inspired by other Github developers I follow. Hope it inspires you too!</p>
+</details>
 
 
 <!---
