@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Piotr Kula
+- 👋 Hi, I’m Piotr Kula and I am Technical Lead at https://github.com/EcoOnline
 - 👀 I am primarily a Dotnet developer but do write code in all languages
-- 🔍 I'm a certified Elastic Search Observability Engineer and a Open Telemetry evangilist
+- 🔍 I'm a certified Elastic Search Observability Engineer and a Open Telemetry evangelist
 - 🌱 Learning about Kafka
 
 ### Daily 
@@ -27,7 +27,7 @@
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
-### Nighlty
+### Nightly
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![FreeBSD](https://img.shields.io/badge/FreeBSD-AB2B28.svg?style=for-the-badge&logo=freebsd&logoColor=white)
